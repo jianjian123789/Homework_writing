@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>train</folder>
+  <filename>wdj7</filename>
+  <path>/home/wj/study/dlearn/02-CSDN/data/TFRecord_make/train/wdj7.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>600</width>
+    <height>380</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wdj</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>259</xmin>
+      <ymin>22</ymin>
+      <xmax>339</xmax>
+      <ymax>102</ymax>
+    </bndbox>
+  </object>
+</annotation>
